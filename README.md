@@ -1,6 +1,6 @@
 # Bug-smasher-game
 
-# Link
+## Link
 Link: https://manav4499.github.io/Bug-smasher-game/
 
 ## Overview 
