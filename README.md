@@ -1,7 +1,10 @@
 # Bug-smasher-game
-Welcome to my COMP 125 Bug smasher Game assignment! This game uses JavaScript to enhance gameplay. 
 
+# Link
 Link: https://manav4499.github.io/Bug-smasher-game/
+
+## Overview 
+Welcome to my COMP 125 Bug smasher Game assignment! This game uses JavaScript to enhance gameplay. 
 
 ## Screenshots
 
